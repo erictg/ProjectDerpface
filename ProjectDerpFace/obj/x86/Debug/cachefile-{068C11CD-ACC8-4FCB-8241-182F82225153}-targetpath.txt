@@ -1,0 +1,3 @@
+Content\FBXmodels\CharacterControllerTestTerrain.xnb
+Content\FBXmodels\thingy.xnb
+Content\FBXmodels\textures\brown_eye_0.xnb
